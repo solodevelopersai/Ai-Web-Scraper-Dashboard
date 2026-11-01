@@ -1,6 +1,11 @@
 # AI-Powered Web Scraping & Data Pipeline Dashboard
 
-A Python-based application for automated web data extraction, cleaning, and local storage in a lightweight SQLite database. This project provides a privacy-first, extensible foundation for scraping structured content from websites and transforming it into usable datasets.
+<div align="center">
+  <img src="./assets/image.png" alt="AI-Powered Web Scraping and Data Pipeline Architecture" width="100%" />
+  <p><em>AI-Powered web scraping and data pipeline architecture: target websites are scraped, cleaned, transformed, and stored locally in SQLite for privacy-first analysis and automation.</em></p>
+</div>
+
+A Python-based application for automated web data extraction, cleaning, and local storage in a lightweight SQLite database. This project provides a privacy-first, extensible foundation for scraping publicly accessible web content and transforming it into structured, useful data.
 
 ## Overview
 
